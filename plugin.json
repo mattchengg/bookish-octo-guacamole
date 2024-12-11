@@ -5,12 +5,12 @@
   "version": "1.0.0",
   "readme": "readme.md",
   "icon": "icon.png",
-  "files": [cli/chrck-cli.js],
+  "files": ["cli/chrck-cli.js"],
   "minVersionCode" : 290,
   "price": 0,
   "author": {
     "name": "mattchengg",
     "email": "mattcheng20080205@gmail.com",
-    "github": "https;//github.com/mattchengg"
+    "github": "https://github.com/mattchengg"
   }
 }
