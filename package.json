@@ -1,14 +1,16 @@
 {
   "name": "acode-plugin",
   "version": "1.0.0",
-  "description": "Template for Acode plugin",
+  "description": "Wakatime plugin for Acode",
   "main": "src/main.js",
-  "repository": "https://github.com/Acode-Foundation/acode-plugin.git",
-  "author": "Ajit <me@ajitkumar.dev>",
+  "repository": "https://github.com/mattcheng/book.git",
+  "author": "mattchengg <mattcheng20080205@gmail.com>",
   "license": "MIT",
+  "directory": "/data/data/com.termux/files/home/storage/downloads/bookish-octo-guacamole",
   "dependencies": {
     "@types/ace": "^0.0.50",
     "html-tag-js": "^1.1.41"
+    
   },
   "devDependencies": {
     "jszip": "^3.10.1",
