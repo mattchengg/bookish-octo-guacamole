@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "readme": "readme.md",
   "icon": "icon.png",
-  "files": ["cli/chrck-cli.js"],
+  "files": [],
   "minVersionCode" : 290,
   "price": 0,
   "author": {
